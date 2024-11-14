@@ -1,6 +1,4 @@
 # Cryptography---19CS412-classical-techqniques
-# NAME: MOHAMED RIDWAN A
-# ID: 212223110030
 
 # Caeser Cipher
 Caeser Cipher using with different key values
