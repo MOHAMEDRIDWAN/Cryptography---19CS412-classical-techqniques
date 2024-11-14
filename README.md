@@ -74,7 +74,7 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/surrey-78/Cryptography---19CS412-classical-techqniques/assets/119559366/27d805f8-0e5e-43b0-93fc-1315fe988c61)
+<img width="383" alt="image" src="https://github.com/user-attachments/assets/4874d61b-5711-43ce-a5a3-5f5aad5c184e">
 
 
 
@@ -238,7 +238,7 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/surrey-78/Cryptography---19CS412-classical-techqniques/assets/119559366/c229bc47-a02a-4590-83e3-fb651385ef8c)
+<img width="465" alt="image" src="https://github.com/user-attachments/assets/42fc5eeb-85ff-4bf2-9d00-88ded7d3a863">
 
 
 ## RESULT:
@@ -299,7 +299,7 @@ int main()
 }
 ```
 ## OUTPUT:
-![image](https://github.com/surrey-78/Cryptography---19CS412-classical-techqniques/assets/119559366/b9975113-a605-403a-ade5-7b444ec816f8)
+![image](https://github.com/user-attachments/assets/0b418f4e-1105-4749-b3a7-e269d051de55)
 
 ## RESULT:
 The program is executed successfully
@@ -395,7 +395,7 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/surrey-78/Cryptography---19CS412-classical-techqniques/assets/119559366/429aab90-dd87-4912-bccd-d03328030bfd)
+![image](https://github.com/user-attachments/assets/32655d85-8308-4b17-a820-0b79df898af2)
 
 
 ## RESULT:
@@ -481,7 +481,7 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/surrey-78/Cryptography---19CS412-classical-techqniques/assets/119559366/a5f4e5a4-6c59-4a3c-a9b8-f29d790e19fb)
+<img width="326" alt="image" src="https://github.com/user-attachments/assets/b666a689-ee2f-4078-95b4-71c5fe311362">
 
 
 
